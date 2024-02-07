@@ -1,0 +1,71 @@
+#main {
+    margin: auto;
+    padding: auto;
+}
+li {
+    display: inline-block;
+    font-size: 13px;
+     width: 6%;
+}
+.b {
+    color: green;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    /* float: left; */
+}
+.abc {
+    color: rgb(7, 8, 7);
+    background-color: rgb(47, 184, 47);
+    border-radius: 14px;
+    font-size: larger;
+}
+input {
+    border: 2px;
+}
+a {
+    display: inline-block;
+    color: black;
+    width: 15%;
+    margin-left: 20px ;
+    
+    }
+
+.zzx{
+    color: green;
+    font-size: 35px;
+    margin: 0 13%;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+ 
+}
+.para {
+margin: -2% 13%;
+font-size:20px ;
+
+.button {
+    align-items: center;
+    cursor: pointer;
+    font-size:15px;
+    margin: -1px -2% 20px 2px ;    
+    position: relative;
+    background-color: green;
+    padding:11px;
+    width:126px;
+    color: white;
+    border-radius: 18px;
+    text-align:center;
+    text-decoration: none; }
+
+    .button:hover {
+        box-shadow: 0 3px 0 rgba(0, 0, 0, 0.5);
+        cursor: pointer;
+        top: 1px;}
+}
+
+.img1{
+text-align: center;
+margin: -21% -20% 0% 20% ;
+}
+.img2 {
+    margin: 5%;
+}
